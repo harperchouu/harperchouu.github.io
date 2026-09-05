@@ -99,22 +99,22 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = ""
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/bike-lanes.jpg"
-date = "March 2026"
+title = "Gender-Inclusive Restroom Push Faces Hurdles Over Privacy, Safety, and Policy Gaps"
+description = "Following the incident of secret filming in gender-inclusive restroom, we found that there are no clear guidlines regulating the design of such facilities..."
+url = "https://unews.nccu.edu.tw/unews/all-gender-restroom"
+image = "https://unews.nccu.edu.tw/File/Posts/3725/7A-C6-FA-0F-F1-DE-FF-10-C5-8B-75-AC-04-DE-57-2B.jpg"
+date = "March 2025"
 category = "Journalism"
-outlet = "Berkeleyside"
+outlet = "NCCU Onlinenews"
 
 [[work]]
-title = "The wells are running dry: a Central Valley town confronts its future"
-description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/drought.jpg"
+title = "Who got the ticket? A tense coexistence between scalpers and fans"
+description = "Taiwan’s ticket scalping issue highlights deeper problems within the ticketing system and venue allocation."
+url = "https://unews.nccu.edu.tw/unews/ticket-scalping-need"
+image = "https://unews.nccu.edu.tw/File/Posts/3735/C1-50-3F-78-85-42-C3-DC-09-0F-F5-D8-96-42-43-57.JPG"
 date = "January 2026"
 category = "Journalism"
-outlet = "The San Francisco Chronicle"
+outlet = "NCCU Online news"
 
 [[work]]
 title = "Secrets behind Kpop and scalping tickets"
@@ -127,12 +127,12 @@ outlet = "NCCU Onlinenews"
 
 # This one has no image on purpose — the site still handles it gracefully.
 [[work]]
-title = "Opinion: Student journalism deserves a seat at the press table"
-description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
-url = "https://example.com/your-story-link-goes-here"
-date = "October 2025"
+title = "2022 Electric Cars Common Questions"
+description = "Kia manager would tell you some facts of buying electric cars in 2022"
+url = "https://images.storm.mg/cloud?w=768&h=768&resize=fill&g=ce&url=https://image.cache.storm.mg/media/image/2022/08/16/20220816-041109_U6886_M785397_c473.png"
+date = "October 2024"
 category = "Journalism"
-outlet = "Richmond Confidential"
+outlet = "Storm Media"
 
 # ── A photo essay stored right here on your site ────────────
 #
