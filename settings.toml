@@ -44,7 +44,7 @@ employer = "Oakland North"      # Where you work, intern, or freelance most
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "byline"
+template = "newsprint"
 
 # ── How people reach you ────────────────────────────────────
 
@@ -78,7 +78,7 @@ I do data visualization, data analyse and graphics for stories. Focusing on Educ
 """
 
 # Optional extra line at the bottom of every page.
-footer = "1"
+footer = ""
 
 
 # ============================================================
@@ -99,7 +99,7 @@ footer = "1"
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
+title = ""
 description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
 url = "https://example.com/your-story-link-goes-here"
 image = "media/work/bike-lanes.jpg"
@@ -188,8 +188,8 @@ category = "Multimedia"
 
 [colors]
 accent = "#c9401a"       # e.g. "#c9401a"  (find codes at htmlcolorcodes.com)
-background = "#fffdf5"   # e.g. "#fffdf5"
-text = "222222"         # e.g. "#222222"
+background = "#ffffff"   # e.g. "#fffdf5"
+text = "#000000"         # e.g. "#222222"
 
 [fonts]
 # Any font from fonts.google.com — just write its name.
