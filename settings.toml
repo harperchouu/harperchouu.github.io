@@ -193,5 +193,5 @@ text = "222222"         # e.g. "#222222"
 
 [fonts]
 # Any font from fonts.google.com — just write its name.
-heading = ""Helvetica Neue", Helvetica, Arial, sans-serif"      # e.g. "Playfair Display"
-body = ""Helvetica Neue", Helvetica, Arial, sans-serif"         # e.g. "Lora"
+heading = "Helvetica Neue"      # e.g. "Playfair Display"
+body = "Helvetica Neue"         # e.g. "Lora"
